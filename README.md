@@ -37,6 +37,10 @@ For comparison, a simple MLP model is defined in the main script train.py. This 
 ## Training and Evaluation
 Both models are trained on the MNIST dataset, using a modified ResNet as a feature extractor to adapt to the input size of MNIST images. The training process records metrics such as loss and accuracy, which are used to compare the models' performances.
 
+## Result
+<img width="600" alt="kan_mlp_loss_curve" src="[https://github.com/KindXiaoming/pykan/assets/23551623/a2d2d225-b4d2-4c1e-823e-bc45c7ea96f9](https://github.com/MaybeRichard/KAN-Layer/blob/main/result/mlp_kan_mnist.png)">
+
+
 ## Contributing
 Contributions to improve the code or extend the functionality are welcome. Please feel free to fork the repository and submit a pull request.
 
